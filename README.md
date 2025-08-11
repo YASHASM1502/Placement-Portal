@@ -51,3 +51,9 @@ A **lightweight placement management portal** built entirely with **HTML, CSS, a
 
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
 
+## Screenshot
+<img width="1916" height="863" alt="image" src="https://github.com/user-attachments/assets/525a65c6-bed2-49b8-b430-fd3573912c61" />
+
+
+
+
